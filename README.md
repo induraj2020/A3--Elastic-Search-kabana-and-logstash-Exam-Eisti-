@@ -26,3 +26,6 @@
  * Understand the data in question
  * Make a configuration file so Logstash can parse this file
  * Create a file with log of logstash
+ 
+  * Solutions: [click here for solution](https://github.com/induraj2020/A3--Elastic-Search-kabana-and-logstash-Exam-Eisti-) 
+    * Related file: 1. apache_file_example  2. titanic_exam.conf
